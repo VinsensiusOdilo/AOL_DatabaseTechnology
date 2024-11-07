@@ -10,4 +10,4 @@ To access the htdocs folder you need to go to the directory where the xampp inst
 ### 3. Start Apache and MySQL
 Before going to the Library Management System, open XAMPP control panel and start apache and then mysql
 ### 4. Run the Project
-To run you need to go to web browser and open localhost and add '/LibraryManagementSystem_Kelompok3_LB75/index.php', basically the address where the index.php is located inside the htdocs folder.
+To run you need to go to web browser and open localhost and add '/AOL_DatabaseTechnology/index.php', basically the address where the index.php is located inside the htdocs folder.
